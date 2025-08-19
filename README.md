@@ -1,6 +1,7 @@
-# Project Name
+# Project Brackeys
 
-## Documentations
+Everything's licensed under MIT besides the assets, they're made by various artist and it's CC0.
 
-All documentation regarding pretty much everything will be in the "docs"
-Directory.
+Followed [this](https://www.youtube.com/watch?v=LOhfqjmasi0) tutorial
+
+Used [these](https://brackeysgames.itch.io/brackeys-platformer-bundle) assets
