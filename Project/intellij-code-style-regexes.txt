@@ -1,0 +1,33 @@
+^(.|\n)+^tool
+
+^##(.|\n)+^class_name
+
+^enum(.|\n)*^signal
+
+^const(.|\n)*^signal
+
+^class_name(.|\n)*^tool
+
+^var(.|\n)*^const
+
+^var(.|\n)*^export
+
+^var(.|\n)*^signal
+
+^var _[a-zA-Z](.|\n)*^var [a-zA-Z]
+
+^onready var(.|\n)*^export
+
+^onready var(.|\n)*^var
+
+^onready var _[a-zA-Z](.|\n)*^onready var [a-zA-Z]
+
+^func(.|\n)*^func _init\(
+
+^func (?!_init)(.|\n)*^func _ready
+
+^func _on_(.|\n)*^func (?!_on_)
+
+^static func(.|\n)*^func
+
+^static func _(.|\n)*^static func [^_]

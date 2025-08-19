@@ -1,3 +1,6 @@
-# LICENSE
+# Project Name
 
-License is MIT and all assets used are from brackey's website which are CC0
+## Documentations
+
+All documentation regarding pretty much everything will be in the "docs"
+Directory.
